@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+html , body{
+    height: 100%;
+}
+
+body{
+    background: rgb(207,226,206);
+    background: linear-gradient(180deg, rgba(207,226,206,1) 1%, rgba(0,0,0,1) 100%);
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.avatar{
+    width: 60px;  
+}
+
+h1{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 40;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+h2{
+    font-size: 13px;
+    margin-top: 2px;
+}
+
+.profile{
+    margin-top: 20px;
+    text-align: center;
+}
